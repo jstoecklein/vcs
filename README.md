@@ -1,1 +1,1 @@
-# jstoecklein.vcs.github.io
+# vcs.io
